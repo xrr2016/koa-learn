@@ -1,0 +1,27 @@
+{
+  "name": "koa-mongodb-curd",
+  "version": "1.0.0",
+  "description": "koajs mongodb CURD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrr2016/koa-mongodb-CURD.git"
+  },
+  "author": "xrr2106",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xrr2016/koa-mongodb-CURD/issues"
+  },
+  "homepage": "https://github.com/xrr2016/koa-mongodb-CURD#readme",
+  "dependencies": {
+    "koa": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-preset-latest": "^6.22.0"
+  }
+}
